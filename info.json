@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "c4c320fa612b06bfe81f7fcd0b0bb5d1a48389ef",
+    "author": "Ben Raymond <ben.raymond@aad.gov.au>",
+    "time": "2026-02-03T03:14:20Z",
+    "files": 26,
+    "merge": false,
+    "message": "pkgdown\n"
+  },
+  "repo": "https://github.com/ropensci/antanym",
+  "pkg": "antanym",
+  "time": "2026-08-30T07:41:49Z"
+}
